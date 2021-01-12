@@ -1,5 +1,5 @@
 # whichSystem.py
-Herramienta echa en python para identificar el Sistema Operativo y el ttl poniendo una IP     
+Herramienta echa en python para identificar el Sistema Operativo y el TTL poniendo una IP     
 
 *Darle permiso= chmod +x whichSystem.py
 
