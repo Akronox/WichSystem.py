@@ -1,4 +1,4 @@
-# Herramienta echa en python3 para identificar el Sistema Operativo y el TTL poniendo una IP     
+# Herramienta echa en python para identificar el Sistema Operativo y el TTL poniendo una IP     
 
 *Darle permisos= chmod +x whichSystem.py
 
